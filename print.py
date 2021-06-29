@@ -1,5 +1,4 @@
-# Basic printing
-
+# Basic printing, must be invoked with parentheses
 
 print("string")
 print("This is how we print a string")
