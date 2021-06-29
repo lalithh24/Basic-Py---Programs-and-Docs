@@ -14,7 +14,12 @@ print(my_list[0])  #prints the first value in the list through indexing.
 for x in my_list:
   print(x)
   
-  
+#adding two lists
+
+list_one = [1,2,3,5,8]
+list_two = [0,56,89]
+full_list = list_one + list_two
+print(full_list)
 
 
 
